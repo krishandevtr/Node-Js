@@ -128,5 +128,4 @@ Master `fs`, streams, buffers, backpressure, and file handling for real-world us
 ## 🛠 Tech Used
 
 - Node.js (fs, stream, readline, http, buffer)
-- Busboy
-- MongoDB (optional bonus)
+
